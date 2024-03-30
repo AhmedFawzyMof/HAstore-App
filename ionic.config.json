@@ -1,0 +1,7 @@
+{
+  "name": "hastore",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
